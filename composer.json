@@ -1,0 +1,10 @@
+{
+	"name" : "tekkla/core-framework",
+	"description" : "Basic library for my javascript using CORE projects",
+	"homepage" : "https://github.com/tekkla/core-js",
+	"license" : "MIT",
+	"minimum-stability" : "dev",
+	"support" : {
+		"email" : "tekkla@tekkla.de"
+	}
+}
