@@ -61,5 +61,5 @@ APPS.createNS = function(namespace) {
         parent = parent[partname];
     }
 
-    return parent;
+    return parent; 
 };
