@@ -1,6 +1,9 @@
 /**
- * Thanks to Kenneth Truyers for his idea of how to implement namespaces in
- * javascript
+ * core.js
+ * 
+ * Namespace: CORE
+ *  
+ * Thanks to Kenneth Truyers for his idea of how to implement namespaces in  javascript
  * 
  * @author https://www.kenneth-truyers.net/about-kenneth-truyers/
  * @see https://www.kenneth-truyers.net/2013/04/27/javascript-namespaces-and-modules/
